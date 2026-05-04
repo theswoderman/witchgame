@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 42beceecf1d975a48bd896979fff57c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5071039311747301901
+    second: slaphisbaldhead_0
+  - first:
+      213: -8027600983882551763
+    second: slaphisbaldhead_1
+  - first:
+      213: -3192325637724637781
+    second: slaphisbaldhead_2
+  - first:
+      213: 1861734550857692087
+    second: slaphisbaldhead_3
+  - first:
+      213: 523278915039947616
+    second: slaphisbaldhead_4
+  - first:
+      213: -8134840161115263814
+    second: slaphisbaldhead_5
+  - first:
+      213: 3230024332954932163
+    second: slaphisbaldhead_6
+  - first:
+      213: 8287944822593658441
+    second: slaphisbaldhead_7
+  - first:
+      213: -6059022971356180437
+    second: slaphisbaldhead_8
+  - first:
+      213: 1447912048407078785
+    second: slaphisbaldhead_9
+  - first:
+      213: -4234010352796743036
+    second: slaphisbaldhead_10
+  - first:
+      213: -7662781334821012743
+    second: slaphisbaldhead_11
+  - first:
+      213: 5064556993147578292
+    second: slaphisbaldhead_12
+  - first:
+      213: 2600220202999199449
+    second: slaphisbaldhead_13
+  - first:
+      213: 2442230613411634828
+    second: slaphisbaldhead_14
+  - first:
+      213: 2582091142756923983
+    second: slaphisbaldhead_15
+  - first:
+      213: -8830112257478391463
+    second: slaphisbaldhead_16
+  - first:
+      213: 6626456157476693399
+    second: slaphisbaldhead_17
+  - first:
+      213: -1509640097228604857
+    second: slaphisbaldhead_18
+  - first:
+      213: -4474183282019431821
+    second: slaphisbaldhead_19
+  - first:
+      213: 2385306725253537089
+    second: slaphisbaldhead_20
+  - first:
+      213: -8318070093381414340
+    second: slaphisbaldhead_21
+  - first:
+      213: -9223081343215003442
+    second: slaphisbaldhead_22
+  - first:
+      213: 5304292428962756103
+    second: slaphisbaldhead_23
+  - first:
+      213: -898532604508837214
+    second: slaphisbaldhead_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slaphisbaldhead_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdb24d0d9c00a9b0800000000000000
+      internalID: -5071039311747301901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eaa1def6b389090800000000000000
+      internalID: -8027600983882551763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5fc040fb492b3d0800000000000000
+      internalID: -3192325637724637781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b1f9c5b536d910800000000000000
+      internalID: 1861734550857692087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6869966f034700800000000000000
+      internalID: 523278915039947616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abca42449fd3b1f80800000000000000
+      internalID: -8134840161115263814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c395a5740a53dc20800000000000000
+      internalID: 3230024332954932163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e9bbc97e1b40370800000000000000
+      internalID: 8287944822593658441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_8
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20126aa5b60aeba0800000000000000
+      internalID: -6059022971356180437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_9
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187ef4f2654081410800000000000000
+      internalID: 1447912048407078785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_10
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a49325406cd35c0800000000000000
+      internalID: -4234010352796743036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_11
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faff72a9f458a590800000000000000
+      internalID: -7662781334821012743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_12
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7284980cbe84640800000000000000
+      internalID: 5064556993147578292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_13
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6bf818f76d51420800000000000000
+      internalID: 2600220202999199449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_14
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e1cfbadcb84e120800000000000000
+      internalID: 2442230613411634828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_15
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a75bdb63e65d320800000000000000
+      internalID: 2582091142756923983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_16
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 0
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598d2e8fa3257580800000000000000
+      internalID: -8830112257478391463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_17
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 0
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795291a44c6e5fb50800000000000000
+      internalID: 6626456157476693399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_18
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 0
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ab00a745eac0be0800000000000000
+      internalID: -1509640097228604857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_19
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 0
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a8d3f920288e1c0800000000000000
+      internalID: -4474183282019431821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_20
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 0
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d561724df4a1120800000000000000
+      internalID: 2385306725253537089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_21
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3253333257409c80800000000000000
+      internalID: -8318070093381414340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_22
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 0
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec813236268010080800000000000000
+      internalID: -9223081343215003442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_23
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 0
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7067e1d5cd1ac9940800000000000000
+      internalID: 5304292428962756103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slaphisbaldhead_24
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 0
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aae4295b55c783f0800000000000000
+      internalID: -898532604508837214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slaphisbaldhead_0: -5071039311747301901
+      slaphisbaldhead_1: -8027600983882551763
+      slaphisbaldhead_10: -4234010352796743036
+      slaphisbaldhead_11: -7662781334821012743
+      slaphisbaldhead_12: 5064556993147578292
+      slaphisbaldhead_13: 2600220202999199449
+      slaphisbaldhead_14: 2442230613411634828
+      slaphisbaldhead_15: 2582091142756923983
+      slaphisbaldhead_16: -8830112257478391463
+      slaphisbaldhead_17: 6626456157476693399
+      slaphisbaldhead_18: -1509640097228604857
+      slaphisbaldhead_19: -4474183282019431821
+      slaphisbaldhead_2: -3192325637724637781
+      slaphisbaldhead_20: 2385306725253537089
+      slaphisbaldhead_21: -8318070093381414340
+      slaphisbaldhead_22: -9223081343215003442
+      slaphisbaldhead_23: 5304292428962756103
+      slaphisbaldhead_24: -898532604508837214
+      slaphisbaldhead_3: 1861734550857692087
+      slaphisbaldhead_4: 523278915039947616
+      slaphisbaldhead_5: -8134840161115263814
+      slaphisbaldhead_6: 3230024332954932163
+      slaphisbaldhead_7: 8287944822593658441
+      slaphisbaldhead_8: -6059022971356180437
+      slaphisbaldhead_9: 1447912048407078785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d68060b9eec5ec84baba96fa23016e68, type: 3}
+  m_Name: TotemData 1
+  m_EditorClassIdentifier: Assembly-CSharp::TotemData
+  totemID: 1
+  icon: {fileID: 0}
+  stat:
+    statistic: 4
+    currentValue: 0
+  totem:
+  - cell: 000000000000000000
+  - cell: 000000000000000000
+  - cell: 000000000000000000
+  - cell: 000000010001000000
+  - cell: 000000010101000000
+  - cell: 000000010001000000
+  - cell: 000000000000000000
+  - cell: 000000000000000000
+  - cell: 000000000000000000
+  totemOffsets:
+  - {x: -1, y: -1}
+  - {x: -1, y: 1}
+  - {x: 0, y: -1}
+  - {x: 0, y: 0}
+  - {x: 0, y: 1}
+  - {x: 1, y: -1}
+  - {x: 1, y: 1}
+  aura:
+  - cell: 000000000000000000
+  - cell: 000000000000000000
+  - cell: 000001010101010000
+  - cell: 000001000100010000
+  - cell: 000001000000010000
+  - cell: 000001000100010000
+  - cell: 000001010101010000
+  - cell: 000000000000000000
+  - cell: 000000000000000000
+  auraOffsets:
+  - {x: -2, y: -2}
+  - {x: -2, y: -1}
+  - {x: -2, y: 0}
+  - {x: -2, y: 1}
+  - {x: -2, y: 2}
+  - {x: -1, y: -2}
+  - {x: -1, y: 0}
+  - {x: -1, y: 2}
+  - {x: 0, y: -2}
+  - {x: 0, y: 2}
+  - {x: 1, y: -2}
+  - {x: 1, y: 0}
+  - {x: 1, y: 2}
+  - {x: 2, y: -2}
+  - {x: 2, y: -1}
+  - {x: 2, y: 0}
+  - {x: 2, y: 1}
+  - {x: 2, y: 2}
+  gridSize: 9
+  auraEffect: 0
